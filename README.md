@@ -1,6 +1,9 @@
-# Hi there 👋, I'm Mohin Chudasama  
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=4000&pause=1000&color=1E90FF&center=false&vCenter=true&width=900&lines=Mohin+Chudasama;" alt="Typing SVG" />
+</p>
 
-💻 **Web Developer** | 🌐 Core PHP & CodeIgniter | 📍 India  
+### 💻 **Web Developer** | 🌐 Core PHP & CodeIgniter | 📍 India  
 
 I am a Web Developer with **3.5+ years of experience**, currently working at [Ways Software](https://in.linkedin.com/company/wayssoftware).  
 I mainly work with **Core PHP** and **CodeIgniter**, and I enjoy building practical and reliable web applications.  
@@ -40,14 +43,17 @@ Some of the major projects I have contributed to:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn – Mohin Chudasama](https://in.linkedin.com/in/chudasama-mohin)  
-- 📞 Phone: +91 9737972378  
-- 📧 Email: chudasamamohin123@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/chudasama-mohin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chudasamamohin123@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/people/Mohin-Chudasama/pfbid07bKDTRaGo7roFugvXEDStbiw92yZMxQGg7AH32HxNgMdJs7uDRMb1VNu98FmsPrxl)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohin_chudasama/#)
 
 ---
 
